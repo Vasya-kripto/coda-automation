@@ -13,7 +13,8 @@ FILET_MIGNON_STAKING_CHALLENGE = {
     'tNciaKqn2vMY7JA66AHEP1bupBcsnPYeFM58SorCWL78pGoVKrM9r7j968a9BaqmEqH2hx8UCCURy8op27HFE9auLfesTbu4u7MmRQmsGVmWhMfXSqpTQpmkcjzW7hd4Bc44G32jv2SLLS': 'Matt Harrop / Figment Network',
     'tNciBBcEcajd4AFCAiSLWvwg9X3fCUT57X5h9UhVuDhh3UrZ26nxCeVEzjFCN6uVhy2CFSqUjWqGsZ2yQno64nqE6SWPbqVr1WX2JiBQ23mBCmtkViPxCQUdq2EJZPyMDx6tWbazW2xgYo': 'garethtdavies#4963'
     'tNciVRxhXhJq78LFxg8acp7VwVSXtJMsQgyyASr9q9vXMcJ4whwawrtz1TZyH8TXHyy68cPatDR5xRn5G2o7cm8kWYMbooPaTVpte2vYsd7pqFDAJ6QAYTD8Ro1FPmzQdvCZHdhdMfdZqi': 'novy',
-}
+    'tNciBNjgL24UDGk6PfqB49S5sZmkPrmzxKjJchk9XAiFrd9TWxpyFSsxEVpXeVTfAkfYXndZU97512YpYbJXKVp5TTcXjKen3f1MZQrjW63MhrP4L3cGq9yYv9b7uEs2wDfPq7j83zmY2e': 'OranG3',
+    }
 
 # For Community Members
 OBSERVED_COMMUNITY_PUBLIC_KEYS = {
